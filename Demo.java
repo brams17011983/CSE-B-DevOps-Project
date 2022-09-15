@@ -1,13 +1,13 @@
 class Demo
 {
-static int i;
-static long l;
+static int i; static long l;
 static byte b;
 static boolean bo;
 static short s;
 static float f;
 static char c;
 static double d;
+static double d1;
 public static void main(String args[])
 {
 System.out.println("int="+i);
