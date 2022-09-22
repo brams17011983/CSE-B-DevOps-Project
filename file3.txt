@@ -1,1 +1,3 @@
 FIle 3 content here.
+
+New changes added in local repo to see conflicts in action. 
