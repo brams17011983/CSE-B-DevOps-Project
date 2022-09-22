@@ -1,1 +1,5 @@
 FIle 3 content here.
+
+
+
+New changes added in remote repo to see conflicts in action.
